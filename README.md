@@ -43,18 +43,12 @@ This will start the development server and allow you to interact with the applic
 
 ## Preview:
 
-![Reachbox-login](https://github.com/user-attachments/assets/670b0bf4-848f-43e4-b976-de16ad51bf16)
+![ReachBox](https://github.com/user-attachments/assets/c6274f40-6b38-4525-bf92-cb93da778b4a)
 
-![reachbox-signup](https://github.com/user-attachments/assets/1dc2f5c9-1a8d-4fb6-848e-19be1b2e33a5)
+![ReachBox-black](https://github.com/user-attachments/assets/3f344bf7-c2d1-432f-b851-94825e5e5e45)
 
-![ReachBox-black](https://github.com/user-attachments/assets/f76967c0-0d3c-4457-851f-06e531cdedce)
+![ReachBox-content](https://github.com/user-attachments/assets/5ecd13ff-29c7-4d6c-b562-c778871e5c9b)
 
-![Reachbox-home](https://github.com/user-attachments/assets/dbfa9a67-04ae-480a-8ead-cbc2ae77ce40)
+![ReachBox_mail](https://github.com/user-attachments/assets/18a376d5-9c97-40bb-85e9-a8d46ff2bd30)
 
-![ReachBox-home2](https://github.com/user-attachments/assets/b6b88de5-258f-41c3-9bbd-d41b92df1ac9)
-
-![ReachBox-delete](https://github.com/user-attachments/assets/f032f845-2ea5-49af-8800-b8a6903c0bed)
-
-![ReachBox-White](https://github.com/user-attachments/assets/a20eab95-eab4-4032-829b-94ff782a0261)
-
-![Reachbox_home](https://github.com/user-attachments/assets/102be9c6-835a-4f7c-b650-2a65596b65e4)
+![ReachBox-White](https://github.com/user-attachments/assets/9e793754-eb09-47bb-8bb8-94dd645898c6)
