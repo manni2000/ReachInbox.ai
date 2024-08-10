@@ -51,4 +51,6 @@ This will start the development server and allow you to interact with the applic
 
 ![ReachBox_mail](https://github.com/user-attachments/assets/18a376d5-9c97-40bb-85e9-a8d46ff2bd30)
 
+![ReachBox-delete](https://github.com/user-attachments/assets/0587b84c-73ce-4beb-b896-8653b5a9f84d)
+
 ![ReachBox-White](https://github.com/user-attachments/assets/9e793754-eb09-47bb-8bb8-94dd645898c6)
